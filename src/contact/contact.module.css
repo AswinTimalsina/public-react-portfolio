@@ -1,0 +1,31 @@
+.error{
+    display: block;
+    color: red;
+}
+
+.fontFix{
+    font-size: 25px;
+    color: yellow;
+}
+
+.submitted{
+    font-size: 25px;
+    text-align: center;
+    color: orangered;
+}
+
+
+.btnOrange{
+    background-color: orangered!important;
+    color: white!important;
+    font-size: 31px !important;
+}
+
+.btnOrange:hover{
+    background-color: rgb(255, 38, 0)!important;
+    color: white!important;
+}
+
+.btnParent{
+    text-align: center;
+}
