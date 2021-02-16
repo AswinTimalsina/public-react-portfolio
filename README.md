@@ -1,6 +1,6 @@
 This is a public repo of my portfolio.
 
-To run the project, type the following commands:
+To run the project, type the following commands: <br/>
 npm install <br/>
 npm start <br/>
 
