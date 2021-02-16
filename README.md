@@ -1,8 +1,8 @@
 This is a public repo of my portfolio.
 
 To run the project, type the following commands:
-npm install
-npm start
+npm install <br/>
+npm start <br/>
 
 The contact form may not work in this public repo as the .env file is replaced by .env_sample which does not contain any credentials.
 
